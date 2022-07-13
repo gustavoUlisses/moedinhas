@@ -27,12 +27,12 @@ body {
 
 .valor form{
     display: flex;
-    width: 100%;
+    width: 50%;
     flex-direction: column;
 }
 
 .valor input{
-    margin-top: 10px;
+    margin-top: 25px;
     background-color: #f8f8f8;
     text-align: center;
     color: #000000;
@@ -67,3 +67,7 @@ input::placeholder{
     height: 45px;
 
 }  
+
+a {
+    font-size: 10px;
+}
