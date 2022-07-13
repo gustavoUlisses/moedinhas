@@ -1,0 +1,63 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.area-valor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.valor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 310px;
+    border-radius: 15px;
+    padding: 40px;
+}
+
+.valor form{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.valor input{
+    margin-top: 10px;
+    background-color: #e4e4e4;
+    text-align: center;
+    color: #000000;
+    border: none;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.img {
+    width: 120px;
+    height: auto;
+}
+
+input::placeholder{
+    color: #b1b1b1;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+form [type="botao_doar"]{
+    display: block;
+    background: linear-gradient(90deg, rgba(1,109,236,1) 0%, rgba(103,252,216,1) 100%);
+    font-size: 20px;
+    font-weight: medium;
+}
+
