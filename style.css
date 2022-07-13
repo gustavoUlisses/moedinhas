@@ -22,6 +22,7 @@ body {
     height: 310px;
     border-radius: 15px;
     padding: 40px;
+    box-shadow: 0 0 1em rgb(223, 223, 223);
 }
 
 .valor form{
@@ -32,7 +33,7 @@ body {
 
 .valor input{
     margin-top: 10px;
-    background-color: #e4e4e4;
+    background-color: #f8f8f8;
     text-align: center;
     color: #000000;
     border: none;
@@ -47,17 +48,22 @@ body {
 }
 
 input::placeholder{
-    color: #b1b1b1;
+    color: #868686;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 
 
 }
 
-form [type="botao_doar"]{
+.botao_doar {
     display: block;
     background: linear-gradient(90deg, rgba(1,109,236,1) 0%, rgba(103,252,216,1) 100%);
     font-size: 20px;
+    margin-top: 10px;
     font-weight: medium;
-}
+    color:#f3f3f3;
+    border-radius: 10px;
+    border: none;
+    height: 45px;
 
+}  
