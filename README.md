@@ -1,9 +1,18 @@
-# moedinha
+# moedinha //emConstrucao.
  
 site feito com intuito de auxiliar ong's a receberem doacoes via pix de maneira simples.
 
-//emConstrucao.
+1 - sistema onde a pessoa escolhe uma quantia, escolhe uma ong cadastrada e faz sua colaboracao via pix, esse valor sera repassado 'manualmente' para a ong que foi selecionada pelo pessoa doadora.
 
-pretendo concluir o projeto apos o termino do curso da trybe.
 
-![image](https://user-images.githubusercontent.com/53991145/195239124-3d253e15-d9f5-402c-ab91-5f65ebe9bbb2.png)
+- [x] _adicionado contador js_
+- [x] _background 1 adicionado_
+- [x] _versao mobile_
+- [ ] api pix dinamico
+- [ ] pagina pgto qr code
+- [ ] pagina de prestacao de contas
+
+
+## a proxima versao do projeto tera uma area de cadastro de ongs onde sera gerado uma pagina personalizada semelhante ao sistema linktree, onde o usuario poderar configurar link personalizado (moedinha.online/minhaong), doacao minima, adicionar contas digitais para receber as doacoes, podera personalizar a pagina adicionando fotos, links, redes sociais, informacoes de contato como: telefone, endereco, whatsapp, site, e-mail. 
+
+assim a ong podera criar seu link de doacoes pix de forma facil, facilitando as doacoes via pix.  
