@@ -5,8 +5,7 @@ site feito com intuito de auxiliar ong's a receberem doacoes via pix de maneira 
 1 - sistema onde a pessoa escolhe uma quantia, escolhe uma ong cadastrada e faz sua colaboracao via pix, esse valor sera repassado 'manualmente' para a ong que foi selecionada pelo pessoa doadora.
 
 
-- [x] _adicionado contador js_
-- [x] _background 1 adicionado_
+- [x] _front htmlcss_
 - [x] _versao mobile_
 - [ ] api pix dinamico
 - [ ] pagina pgto qr code
